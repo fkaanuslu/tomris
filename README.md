@@ -1,5 +1,4 @@
-# SensorFusion
-Refer to SensorFusion
+tomris will be open source kit for mobile robotic field as well as it will help students who is willing to learn EKF. 
 
 Abot this project my main goal is to make a Kalman Filter Board which will be use for autonomous vehicles/robots and it will be able to monitor via a 
 website.
